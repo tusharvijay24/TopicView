@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.10.2)
+  - ZIPFoundation (0.9.19)
+
+DEPENDENCIES:
+  - Alamofire
+  - ZIPFoundation (~> 0.9)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  ZIPFoundation: b8c29ea7ae353b309bc810586181fd073cb3312c
+
+PODFILE CHECKSUM: 5d85c83c2dd200de4908a60c0149585279d0f3c1
+
+COCOAPODS: 1.16.2
